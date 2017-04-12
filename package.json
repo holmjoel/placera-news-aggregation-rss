@@ -1,0 +1,16 @@
+{
+  "name": "placera-rss-lambda",
+  "version": "0.0.1",
+  "description": "AWS Lambda RSS wrapper for placera news syndication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Lundell",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0",
+    "xml-writer": "^1.7.0"
+  }
+}
